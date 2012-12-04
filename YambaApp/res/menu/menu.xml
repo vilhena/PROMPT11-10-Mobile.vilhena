@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+      <item android:id="@+id/sendnew"
+	        android:icon="@android:drawable/ic_menu_add"
+	         android:title="New Tweet" />
+     <item android:id="@+id/preferences"
+	        android:icon="@android:drawable/ic_menu_preferences"
+	         android:title="Preferences" />
+     <item android:id="@+id/refresh"
+	        android:icon="@android:drawable/ic_popup_sync"
+	         android:title="Update" />
+</menu>

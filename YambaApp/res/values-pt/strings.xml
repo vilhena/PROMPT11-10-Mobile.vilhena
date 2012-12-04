@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Olá Mundo, YambaAppActivity!</string>
+    <string name="app_name">YambaApp</string>
+    <string name="SubmitButtonText">Submeter</string>
+    <string name="loadingMessage">A Carregar. Aguarde &#8230;</string>
+	<string name="MaxLimitMessage">O limite máximo é 140</string>
+</resources>

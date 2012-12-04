@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference 
+        android:key="username"
+        android:title="preferences"
+        android:summary="summary username" />
+    <EditTextPreference 
+        android:key="password" 
+        android:title="Password"
+        android:summary="summary password"
+        android:password="true" />
+    <EditTextPreference 
+        android:key="serverurl" 
+        android:title="url"
+        android:enabled="true"
+        android:summary="summary url"
+        android:defaultValue="http://yamba.marakana.com/api"
+        />
+	<CheckBoxPreference
+	    android:key="autoUpdateTimeline"
+	    android:title="Auto Updade Timeline"
+	    android:enabled="true"
+	    android:summary="summary Autoupdade"
+	    android:defaultValue="false" 
+	    />
+	
+</PreferenceScreen>

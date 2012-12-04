@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, YambaAppActivity!</string>
+    <string name="app_name">YambaApp</string>
+    <string name="SubmitButtonText">Send</string>
+    <string name="loadingMessage">Loading. Please wait &#8230;</string>
+    <string name="MaxLimitMessage">Limit is 140</string>
+    <string name="typemessagehere">type message here</string>
+    <string name="TimelineTextUser">Slashdot</string>
+    <string name="TimelineTextTime">10 minutes ago</string>
+    <string name="TimelineTextText">Firefox comes to Android</string>
+    
+
+</resources>
